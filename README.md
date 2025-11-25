@@ -1,3 +1,3 @@
 # Desenvolvimento Web
-- front-end e back-end
+- Implementar tecnologias de front-end e back-end para desenvolver sites responsivos, modernos e interativos.
 
